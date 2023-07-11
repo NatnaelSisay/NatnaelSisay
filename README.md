@@ -1,20 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Natnael Sisay</h1>
-<h3 align="center">Software Engineer | Data Science</h3>
+<h1 align="center">Hi 👋, I'm Natnael Kagnaw</h1>
+<h3 align="center">Front-end developer | Software Engineer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnaelsisay&label=Profile%20views&color=0e75b6&style=flat" alt="natnaelsisay" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnaelsisay" alt="natnaelsisay" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/java_the_ethiop" target="blank"><img src="https://img.shields.io/twitter/follow/java_the_ethiop?logo=twitter&style=for-the-badge" alt="java_the_ethiop" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and MLOPs**
+- 🌱 I’m currently **Looking for Front-end Developer role**
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python, JavaScript, React**
 
 - 📫 How to reach me **natyjava8@gmail.com**
 
-- ⚡ Fun fact **I create good vibes**
+- ⚡ Fun fact **I can dance**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnaelsisay&show_icons=true&locale=en" alt="natnaelsisay" /></p>
