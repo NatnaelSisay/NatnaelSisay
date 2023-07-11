@@ -23,11 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/java_the_ethiop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="java_the_ethiop" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natnael-sisay-4637ba152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-sisay-4637ba152" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8230968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8230968" height="30" width="40" /></a>
 <a href="https://kaggle.com/natnael sisay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="natnael sisay" height="30" width="40" /></a>
-<a href="https://instagram.com/natnael_sisay_et" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="natnael_sisay_et" height="30" width="40" /></a>
 <a href="https://medium.com/@natnael-sisay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@natnael-sisay" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Natnael-Sisay" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="@natnael-sisay" height="30" width="40" /></a>
 </p>
