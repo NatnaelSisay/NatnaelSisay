@@ -1,19 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Natnael Kagnaw</h1>
-<h3 align="center">Front-end developer | Software Engineer</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnaelsisay&label=Profile%20views&color=0e75b6&style=flat" alt="natnaelsisay" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natnaelsisay" alt="natnaelsisay" /></a> </p> -->
+<h3 align="center">Full Stack developer | Software Engineer</h3>
 
 
-- 🌱 I’m currently **Looking for Front-end Developer role**
+- 🌱 I’m currently **Looking for Full Stack Developer role**
 
-- 💬 Ask me about **Python, JavaScript, React**
+- 💬 Ask me about **React, Angular, Spring Boot, Node, Python**
 
-- 📫 How to reach me **natyjava8@gmail.com**
+- 📫 How to reach me **natnael.kagnaw@gmail.com**
 
-- ⚡ Fun fact **I can dance**
+- ⚡ Fun fact **I can Smile**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnaelsisay&show_icons=true&locale=en" alt="natnaelsisay" /></p>
@@ -44,4 +40,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     </a><br />
 </p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaelsisay&show_icons=true&locale=en&layout=compact" alt="natnaelsisay" /></p> -->
