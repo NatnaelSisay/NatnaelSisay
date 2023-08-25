@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelsisay&" alt="natnaelsisay" /></p>
 
-<p>Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/NatnaelSisay/count.svg)</p>
+
 ![Visitor Count](https://profile-counter.glitch.me/natnaelsisay/count.svg)
 
 
