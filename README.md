@@ -16,6 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelsisay&" alt="natnaelsisay" /></p>
 
+![Visitor Count](https://profile-counter.glitch.me/NatnaelSisay/count.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
