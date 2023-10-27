@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **natnael.kagnaw@gmail.com**
 
-<h4>Book Recomendations</h4>
+<h4>Book Recommendations</h4>
 
 - [The Road to react](https://www.amazon.com/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX)
 - [Spring Start Here](https://www.amazon.com/Spring-Start-Here-Learn-learn/dp/1617298697)
