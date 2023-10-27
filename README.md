@@ -3,13 +3,15 @@
 <h3 align="center">Full Stack developer | Software Engineer</h3>
 
 
-- 🌱 I’m currently **Looking for Full Stack Developer role**
+- 🌱 I’m currently **Looking for Frontend Developer role**
 
-- 💬 Ask me about **React, Angular, Spring Boot, Node, Python**
+- 💬 Ask me about **React, JavaScript, Java, Spring Boot, and Python**
 
 - 📫 How to reach me **natnael.kagnaw@gmail.com**
 
-- ⚡ Fun fact **I can Smile**
+<h4>Book Recomendations</h4>
+- [The Road to react](https://www.amazon.com/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX)
+- [Sprint Start Here](https://www.amazon.com/Spring-Start-Here-Learn-learn/dp/1617298697)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnaelsisay&show_icons=true&locale=en" alt="natnaelsisay" /></p>
