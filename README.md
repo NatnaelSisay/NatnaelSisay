@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, JavaScript, Java, Spring Boot, and Python**
 
-- 📫 How to reach me **natnael.kagnaw@gmail.com**
+- 📫 How to reach me **natnael.kagnaw01@gmail.com**
 
 <h4>Book Recommendations</h4>
 
