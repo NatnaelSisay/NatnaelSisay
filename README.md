@@ -35,10 +35,10 @@ I am a passionate software engineer with over 5 years of experience developing f
 
 <h3 align="left">🤝 Let's Connect:</h3>
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin) - [Link](https://www.linkedin.com/in/natnael-kagnaw01/)
-- ![LinkedIn](https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter) - [Link](https://twitter.com/natnael_kagnaw)
+- LinkedIn - [Link](https://www.linkedin.com/in/natnael-kagnaw01/)
+- Twitter - [Link](https://twitter.com/natnael_kagnaw)
 
 <h3></h3>
-<p align="center">
+<p align="">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NatnaelSisay&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
 </p>
