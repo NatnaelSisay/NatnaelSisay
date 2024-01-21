@@ -1,46 +1,44 @@
-
-<h1 align="center">Hi 👋, I'm Natnael Kagnaw</h1>
-<h3 align="center">Frontend developer | Software Engineer</h3>
-
-
-- 💬 Ask me about **React, JavaScript, Java, Spring Boot, and Python**
-
-- 📫 How to reach me **natnael.kagnaw01@gmail.com**
-
-<h4>Book Recommendations</h4>
-
-- [The Road to react](https://www.amazon.com/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX)
-- [Spring Start Here](https://www.amazon.com/Spring-Start-Here-Learn-learn/dp/1617298697)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natnaelsisay&show_icons=true&locale=en" alt="natnaelsisay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelsisay&" alt="natnaelsisay" /></p>
-
-
-![Visitor Count](https://profile-counter.glitch.me/natnaelsisay/count.svg)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/natnael-sisay-4637ba152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-sisay-4637ba152" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8230968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8230968" height="30" width="40" /></a>
-<a href="https://kaggle.com/natnael sisay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="natnael sisay" height="30" width="40" /></a>
-<a href="https://medium.com/@natnael-sisay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@natnael-sisay" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Natnael-Sisay" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="@natnael-sisay" height="30" width="40" /></a>
+<h1 align="">Hi 👋, I'm Natnael Kagnaw</h1>
+<h3 align="">Full Stack Software Engineer</h3>
+<p align="center">
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xk2uyr004wsvp9yduw8ethe8ejdng241w09pdlh2&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 </p>
+I am a passionate software engineer with over 5 years of experience developing full stack applications. I enjoy crafting solutions from front to back, using my skills in React, Angular, Spring Boot, and Node to build robust and user-friendly products. Ready to build your next product.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a><br />
+<h3>🚀 What I Do</h3>
+
+- **API Architect**: Designing scalable REST APIs to power dynamic applications.
+
+- **Team Player**: Collaborating daily with cross-functional teams to build products.
+
+- **Java Journeyman**: Leveling up full stack skills through hands-on Java projects.
+
+- **React/Angular Artisan**: Crafting seamless front-end experiences using React and Angular.
+
+<h3>💻 Tech Stack</h3>
+
+<h6>Languages</h6>
+
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=Java) ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+
+<h6>Dev Tools</h6>
+
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon) ![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/React-05122A?style=flat&logo=kubernetes)
+
+<h6>Frameworkds</h6>
+
+![SpringBoot](https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=springboot) ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react) ![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular) ![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=Node.js)
+
+<h5>Databases</h5>
+
+![MySQL](https://img.shields.io/badge/MySQL-FFF?style=flat&logo=mysql) ![Postgres](https://img.shields.io/badge/Postgres-FFF?style=flat&logo=postgresql) ![Oracle](https://img.shields.io/badge/Oracle-FFF?style=flat&logo=oracle) ![DynamoDB](https://img.shields.io/badge/DynamoDB-FFF?style=flat&logo=dynamodb)
+
+<h3 align="left">🤝 Let's Connect:</h3>
+
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin) - [Link](https://www.linkedin.com/in/natnael-kagnaw01/)
+- ![LinkedIn](https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter) - [Link](https://twitter.com/natnael_kagnaw)
+
+<h3></h3>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NatnaelSisay&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
 </p>
