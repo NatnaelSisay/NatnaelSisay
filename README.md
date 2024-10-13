@@ -36,7 +36,7 @@ I am a passionate software engineer with over 5 years of experience developing f
 <h3 align="left">🤝 Let's Connect:</h3>
 
 - LinkedIn - [Link](https://www.linkedin.com/in/natnael-kagnaw)
-- Website - [Link](https://wwww.natnael.link)
+- Website - [Link](https://www.natnael.link/)
 
 <!-- <p align="">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NatnaelSisay&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
