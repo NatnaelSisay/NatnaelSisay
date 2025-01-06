@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xk2uyr004wsvp9yduw8ethe8ejdng241w09pdlh2&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 </p>
-I am a passionate software engineer with experience developing full-stack applications. I usually enjoy working with Spring boot and React to complete projects.
+Welcome, I am Nate a software engineer with experience developing full-stack applications. I usually enjoy working with Spring Boot and React, if you are interested in these technologies let's connect on LinkedIn.
 <h3>🚀 What I Do</h3>
 
 - **API Architect**: Designing scalable REST APIs to power dynamic applications.
