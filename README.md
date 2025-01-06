@@ -1,19 +1,16 @@
-<h1 align="">Hi 👋, I'm Natnael Kagnaw</h1>
-<h3 align="">Full Stack Software Engineer</h3>
+<h1 align="">Hi 👋, I'm Natnael(Nate) Kagnaw</h1>
+<h3 align="">Software Engineer (Back-end)</h3>
 <p align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xk2uyr004wsvp9yduw8ethe8ejdng241w09pdlh2&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 </p>
-I am a passionate software engineer with over 5 years of experience developing full stack applications. I enjoy crafting solutions from front to back, using my skills in React, Angular, Spring Boot, and Node to build robust and user-friendly products. Ready to build your next product.
-
+I am a passionate software engineer with experience developing full-stack applications. I usually enjoy working with Spring boot and React to complete projects.
 <h3>🚀 What I Do</h3>
 
 - **API Architect**: Designing scalable REST APIs to power dynamic applications.
 
 - **Team Player**: Collaborating daily with cross-functional teams to build products.
 
-- **Java Journeyman**: Leveling up full stack skills through hands-on Java projects.
-
-- **React/Angular Artisan**: Crafting seamless front-end experiences using React and Angular.
+- **Core Technologies**: Java, Spring Boot, JavaScript, React
 
 <h3>💻 Tech Stack</h3>
 
